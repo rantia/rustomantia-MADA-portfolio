@@ -1,7 +1,14 @@
 ---
-title: "About me"
+title: "trial lab website for rustom"
 ---
 
-Add some text and a figure describing myself.
+Rustom's lab website (eventually)
 
-For details, see the exercise instructions. 
+ 
+![Picture of rustom](pictures/rustom_picture.png)
+
+# Main website
+
+## Other stuff
+
+## irrelevant stuff
